@@ -11,6 +11,6 @@ Para gerar um relatório, na classe App, refatore a chamada do método ListaColl
 
 O design dos relatórios podem ser definidos nas classes Templates e ReportCustomizer. Aonde Templates vão as implementações mais abrangentes e os dados estáticos, e o ReportCustomizer para as customizações específicas (Podendo ser replicado, caso seja usado multiplos relatórios).
 
-##Licença
+## Licença
 
 Código aberto para alteração e melhorias sob a licença MIT.
